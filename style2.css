@@ -1,6 +1,6 @@
 html{
     height: 100%;
-    margin: 0px;
+    margin: 0px 3px 0x 0px;
 }
 body{
     background-image: url("images1/back.jpg");
@@ -177,3 +177,4 @@ footer{
     margin-top: 30px;
 
 }
+
